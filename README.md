@@ -32,4 +32,4 @@ Inside the repository you find two python notebooks:
 * ImportSeattlePoi.ipynb contains the procedure to generate the dataset seattle_poi.csv. If you decide to regenerate the dataset,  you would consider that this operation take many times.
 
 ## License
-This code is release under [MIT License](LICENSE]).
+This code is release under [MIT License](LICENSE).
