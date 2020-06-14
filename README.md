@@ -7,7 +7,7 @@ This repository contains the source code related to analyzing three business que
 
 ## Getting Started
 
-Before proceeding, you need (Airbnb Seattle Dataset)[https://www.kaggle.com/airbnb/seattle/data]. Please download the package, extract it and save listings.csv.
+Before proceeding, you need [Airbnb Seattle Dataset](https://www.kaggle.com/airbnb/seattle/data). Please download the package, extract it and save listings.csv.
 
 Clone this repository:
 
@@ -32,4 +32,4 @@ Inside the repository you find two python notebooks:
 * ImportSeattlePoi.ipynb contains the procedure to generate the dataset seattle_poi.csv. If you decide to regenerate the dataset,  you would consider that this operation take many times.
 
 ## License
-This code is release under (MIT License)[LICENSE].
+This code is release under [MIT License](LICENSE]).
