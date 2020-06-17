@@ -20,7 +20,7 @@ cd airbnb-seattle-with-poi-osm
 mv /path/to/listings.csv .
 
 # install dependencies
-pip3 install pandas numpy matplotlib overpy geopandas
+pip3 install pandas numpy matplotlib overpy geopandas seaborn sklearn
 
 # Run jupyter
 jupyter notebook
